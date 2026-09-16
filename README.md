@@ -34,12 +34,13 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 GRAPH:
 
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ef061334-e730-4028-a46e-a37f0eb80e3e" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/4dbc82e1-2a1b-4653-81e4-8b86129adcd1" />
 
 
 
 CALCULATION:
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d60ae4cb-397f-4523-baad-db29c31cec0a" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3994014f-9d23-4478-8bbd-acb928e884d4" />
 
 
 
